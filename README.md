@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://github.com/frontendbr/brand/blob/main/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
-</p>
+# Cursos Gratuitos
 
-<h1 align="center">Vagas</h1>
+Espaço para a divulgação e avaliação de cursos pagos
 
-<p align="center">:microscope: Espaço para divulgação de vagas para front-enders.</p>
 
-# Vagas (Somente vagas de Front-End)
-
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
-
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
 
 ### Cadastrando uma vaga
 
